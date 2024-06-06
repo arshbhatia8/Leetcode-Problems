@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/arshbhatia8/Leetcode-Problems/tree/master/0039-combination-sum) |
+| [0876-hand-of-straights](https://github.com/arshbhatia8/Leetcode-Problems/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/arshbhatia8/Leetcode-Problems/tree/master/1044-find-common-characters) |
 # Backtracking
 |  |
@@ -13,8 +14,17 @@
 # Hash Table
 |  |
 | ------- |
+| [0876-hand-of-straights](https://github.com/arshbhatia8/Leetcode-Problems/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/arshbhatia8/Leetcode-Problems/tree/master/1044-find-common-characters) |
 # String
 |  |
 | ------- |
 | [1044-find-common-characters](https://github.com/arshbhatia8/Leetcode-Problems/tree/master/1044-find-common-characters) |
+# Greedy
+|  |
+| ------- |
+| [0876-hand-of-straights](https://github.com/arshbhatia8/Leetcode-Problems/tree/master/0876-hand-of-straights) |
+# Sorting
+|  |
+| ------- |
+| [0876-hand-of-straights](https://github.com/arshbhatia8/Leetcode-Problems/tree/master/0876-hand-of-straights) |
